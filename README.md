@@ -1,4 +1,4 @@
-# Pneumatic-system-for-foot-rehabilitation
+# Pneumatic system for foot rehabilitation
 My Engineer Diploma Thesis Project
 
 This repository includes project of:
