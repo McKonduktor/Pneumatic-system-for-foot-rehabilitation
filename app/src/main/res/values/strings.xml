@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BluetoothControl</string>
+    <string name="main_title">Wybierz urządzenie</string>
+    <string name="control_title">Parametry</string>
+    <string name="bluetooth_null">Urządzenie nie wspiera bluetooth</string>
+    <string name="refresh">Odśwież</string>
+    <string name="no_bluetooth">To urządzenie nie wspiera bluetooth</string>
+    <string name="bluetooth_enabled">Bluetooth został uruchomiony</string>
+    <string name="bluetooth_disabled">Bluetooth został wyłączony</string>
+    <string name="bluetooth_canceled">Bluetooth nie został uruchomiony</string>
+    <string name="no_paired_devices_found">Nie znaleziono sparowanych urządzeń bluetooth</string>
+    <string name="connection_error">Nie udało się połączyć</string>
+    <string name="connecting">Łączenie...</string>
+    <string name="connected">Połączono</string>
+    <string name="wait">Proszę czekać</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="connect_again">Połącz ponownie</string>
+    <string name="disconnect">Rozłącz</string>
+    <string name="disconnected">Rozłączono</string>
+    <string name="pressure">Ciśnienie: %dkPa</string>
+    <string name="speed">Prędkość napełniania: %d</string>
+    <string name="start">Uruchom</string>
+    <string name="stop">Wyłącz</string>
+    <string name="time">Podtrzymanie ciśnienia: %ds</string>
+</resources>
