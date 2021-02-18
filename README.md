@@ -1,7 +1,7 @@
 # Pneumatic system for foot rehabilitation
 My Engineer Diploma Thesis Project
 
-This repository includes project of:
+This repository includes projects of:
 1. C programm for ESP32-based electronic circuit controlling the pneumatic system.
 2. Mobile app (Kotlin) controlling the circuit via Bluetooth.
 
