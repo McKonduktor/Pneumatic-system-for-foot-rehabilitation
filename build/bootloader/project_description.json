@@ -1,0 +1,20 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "C:/Kodziska/ESP-IDF/components/bootloader/subproject",
+    "build_dir":          "C:/Kodziska/Eclipse/ESP32B-BT/build/bootloader",
+    "config_file":        "C:/Kodziska/Eclipse/ESP32B-BT/sdkconfig",
+    "config_defaults":    "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "v4.1-dirty",
+    "target":             "esp32",
+    "phy_data_partition": "",
+    "monitor_baud" :      "115200",
+    "monitor_toolprefix": "xtensa-esp32-elf-",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "C:/Kodziska/ESP-IDF/components/efuse/Kconfig;C:/Kodziska/ESP-IDF/components/esp32/Kconfig;C:/Kodziska/ESP-IDF/components/esp_common/Kconfig;C:/Kodziska/ESP-IDF/components/log/Kconfig;C:/Kodziska/ESP-IDF/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "C:/Kodziska/ESP-IDF/components/bootloader/Kconfig.projbuild;C:/Kodziska/ESP-IDF/components/esptool_py/Kconfig.projbuild;C:/Kodziska/ESP-IDF/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "efuse", "esp32", "esp_common", "esp_rom", "esptool_py", "log", "main", "micro-ecc", "partition_table", "soc", "spi_flash", "xtensa", "" ],
+    "build_component_paths" : [ "C:/Kodziska/ESP-IDF/components/bootloader", "C:/Kodziska/ESP-IDF/components/bootloader_support", "C:/Kodziska/ESP-IDF/components/efuse", "C:/Kodziska/ESP-IDF/components/esp32", "C:/Kodziska/ESP-IDF/components/esp_common", "C:/Kodziska/ESP-IDF/components/esp_rom", "C:/Kodziska/ESP-IDF/components/esptool_py", "C:/Kodziska/ESP-IDF/components/log", "C:/Kodziska/ESP-IDF/components/bootloader/subproject/main", "C:/Kodziska/ESP-IDF/components/bootloader/subproject/components/micro-ecc", "C:/Kodziska/ESP-IDF/components/partition_table", "C:/Kodziska/ESP-IDF/components/soc", "C:/Kodziska/ESP-IDF/components/spi_flash", "C:/Kodziska/ESP-IDF/components/xtensa", "" ]
+}
